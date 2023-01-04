@@ -1,0 +1,65 @@
+---
+title: "Frank Pennekamp"
+image: imgs/Frank.jpg
+description: "Principal Investigator"
+about:
+  template: trestles
+  image: imgs/Frank.jpg
+  links:
+    - icon: globe
+      text: lab website
+      href: https://frank-pennekamp.info
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/pennekampster
+    - icon: github
+      text: Github
+      href: https://github.com/pennekampster
+    - icon: envelope
+      text: mail
+      href: mailto:frank.pennekamp@ieu.uzh.ch
+order: 1
+---
+
+My background is in conservation biology, but for my PhD with [Nicolas Schtickzelle](https://www.nicolas-schtickzelle.net/), I have shifted to microbial model systems to address fundamental questions in ecology and evolutionary biology. My PhD was focused on the genetic and environmental drivers of movement and dispersal of _Tetrahymena thermophila_ ciliates.
+
+From 2014 to 2019, I worked as a postdoctoral researcher with [Owen Petchey](https://www.ieu.uzh.ch/en/staff/member/petchey_owen.html) on understanding the effects of warming on community structure and composition, and the emerging field of ecological predictability.
+
+### Research Interests
+
+- Ecological forecasting
+- Species interactions and food webs
+- Movement and dispersal ecology 
+- Multiple stressors
+
+### Experience
+
+**University of Zurich**  
+2019 - present
+*Independent group leader*
+
+**University of Zurich**  
+2014 - 2019
+*Postdoctoral researcher*    
+Advisor: Prof. Owen Petchey
+
+
+### Education
+
+**Université catholique de Louvain**  
+PhD in Biology    
+Title: Swimming with ciliates: dispersal and movement ecology of _Tetrahymena thermophila_ 
+Advisors: Nicolas Schtickzelle    
+Louvain-la-Neuve, Belgium    
+Granted January 2014    
+
+**University of Trier**  
+Diploma in Applied Biogeography   
+Title: The larval ecology and dispersal behavior of the Spanish Fritillary butterfly (_Euphydryas desfontainii_) in SW-Portugal. 
+Trier, Germany    
+Granted March 2009  
+
+
+
+
+

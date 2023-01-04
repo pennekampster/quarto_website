@@ -1,0 +1,34 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+  output-dir: _site
+
+website:
+  title: "Predictive community ecology"
+  description: "Website of the research group of Frank Pennekamp"
+  site-url: https://frank-pennekamp.info
+  repo-url: https://github.com/pennekampster/quarto_website
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/pennekampster/
+      - icon: twitter
+        href: https://twitter.com/pennekampster
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+      - href: research.qmd
+      - href: publications/index.qmd
+        text: Publications
+      - href: software.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "Wenbo Yu"
+description:  "Visiting doctoral student \n wenbo.yu@ieu.uzh.ch"
+image: imgs/
+about:
+  template: trestles
+  image: imgs/
+  links:
+    - icon: globe
+      text: website
+    - icon: github
+      text: Github
+      href: https://github.com/
+order: 3
+---

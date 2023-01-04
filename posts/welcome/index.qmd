@@ -1,0 +1,9 @@
+---
+title: ""
+author: "Frank Pennekamp"
+date: "2022-10-02"
+categories:
+  - news
+---
+
+New web introducing the research group page up and running!

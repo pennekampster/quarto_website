@@ -1,0 +1,33 @@
+---
+title: "People"
+listing:
+  contents: people
+  id: people_list
+  sort: "order"
+  type: grid
+  categories: false
+  image-align: 'right'
+  image-placeholder: 'imgs/Frank_small.jpeg'
+---
+
+## Lab Members
+
+::: {#people_list}
+
+:::
+
+## Previous
+
+### Postdoctoral
+
+-   Dr. Vojsava Gjoni (2021-2022), SNF Scientific Exchanges scholar
+
+### Doctoral
+
+-   Dr. Andrea Tabi (2016-2019)
+
+### Masters
+
+-   2023: Martina Jelic (co-supervision)
+-   2022: Laura Zanetti (co-supervision)
+-   2021: Chenyu Shen
