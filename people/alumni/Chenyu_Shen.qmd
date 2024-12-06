@@ -1,0 +1,16 @@
+---
+title: "Chenyu Shen"
+image: imgs/Kim.jpg
+description:  "Master student"
+sortby: "Chenyu Shen"
+subtitle: "Master student"
+started: "2/2021"
+ended: "11/2021"
+
+about:
+  template: trestles
+  image: imgs/
+order: 1
+---
+
+Chenyu worked on higher-order interactions in competitive communities and their effects on community stability. Co-supervised with Prof. Jake Alexander, ETH Zurich.

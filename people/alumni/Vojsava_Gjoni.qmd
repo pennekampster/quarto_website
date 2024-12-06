@@ -1,0 +1,14 @@
+---
+title: "Vojsava Gjoni"
+image: imgs/Kim.jpg
+description:  "Visiting postdoctoral researcher"
+sortby: "Vojsava Gjoni"
+subtitle: "Visiting postdoctoral researcher"
+started: "9/2021"
+ended: "3/2022"
+
+about:
+  template: trestles
+  image: imgs/
+order: 1
+---

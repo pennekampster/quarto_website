@@ -4,8 +4,8 @@ image: imgs/Kim.jpg
 description:  "Postdoctoral researcher"
 sortby: "Kimberley Lemmen"
 subtitle: "Postdoctoral researcher"
-started: "2021"
-ended: "2024"
+started: "3/2021"
+ended: "5/2024"
 
 about:
   template: trestles

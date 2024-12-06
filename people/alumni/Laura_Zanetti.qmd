@@ -1,0 +1,16 @@
+---
+title: "Laura Zanetti"
+image: imgs/Kim.jpg
+description:  "Master student"
+sortby: "Laura Zanetti"
+subtitle: "Master student"
+started: "2/2021"
+ended: "2/2022"
+
+about:
+  template: trestles
+  image: imgs/
+order: 1
+---
+
+Laura Zaneeti was a master student working on life history evolution in response to eutrophication. Co-supervised with Dr. Piet Spaak, EAWAG, Dübendorf.

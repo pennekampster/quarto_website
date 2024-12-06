@@ -1,0 +1,18 @@
+---
+title: "Andrea Tabi"
+image: imgs/Kim.jpg
+description:  "PhD student"
+sortby: "Tabi, Andrea"
+subtitle: "PhD student"
+started: "2/2016"
+ended: "5/2019"
+
+about:
+  template: trestles
+  image: imgs/
+order: 1
+---
+
+### Research Interests
+
+Andrea worked on the effects of warming on species interactions and subsequent effects on community properties. Co-supervised with Prof. Owen Petchey, University of Zurich.

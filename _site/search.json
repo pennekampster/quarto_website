@@ -207,7 +207,7 @@
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nended\n\n\n\n\n\n\nKimberley Lemmen\n\n\nPostdoctoral researcher\n\n\n2021\n\n\n2024\n\n\n\n\nWenbo Yu\n\n\nVisiting PhD student\n\n\n2022\n\n\n2024\n\n\n\n\n\nNo matching items"
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nended\n\n\n\n\n\n\nChenyu Shen\n\n\nMaster student\n\n\n2/2021\n\n\n11/2021\n\n\n\n\nDavid Inauen\n\n\nMaster student\n\n\n12/2016\n\n\n12/2017\n\n\n\n\nKimberley Lemmen\n\n\nPostdoctoral researcher\n\n\n3/2021\n\n\n5/2024\n\n\n\n\nLaura Zanetti\n\n\nMaster student\n\n\n2/2021\n\n\n2/2022\n\n\n\n\nAndrea Tabi\n\n\nPhD student\n\n\n2/2016\n\n\n5/2019\n\n\n\n\nVojsava Gjoni\n\n\nVisiting postdoctoral researcher\n\n\n9/2021\n\n\n3/2022\n\n\n\n\nWenbo Yu\n\n\nVisiting PhD student\n\n\n12/2022\n\n\n9/2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/alumni/wenbo_yu.html",
@@ -376,5 +376,33 @@
     "title": "Biodiversity increases the forecastability of species abundances in changing environments",
     "section": "",
     "text": "Accurate forecasts of ecological dynamics are critical for ecosystem management and conservation, yet the drivers of forecastability are poorly understood. Here we show that experiments are a powerful (but underutilized) tool to explore the limits of ecological forecasting. We conducted a long-term microcosm experiment with aquatic protists and manipulated two potential drivers of forecastability: biodiversity and environmental change (light). We applied data-driven forecasting methods to finely-resolved time series of species abundances and ecosystem properties. The experimental treatments had interactive effects on abundance forecasts. Specifically, biodiversity increased forecastability in changing environments but reduced forecastability in constant environments. However, forecasts of ecosystem properties were only weakly affected by the experimental treatments. Our results indicate that the combination of biodiversity loss and environmental change could make populations particularly unpredictable. The implications for ecological conservation are worrying: diversity loss might impair decision-taking by reducing the forecastability of ecological dynamics in changing environments."
+  },
+  {
+    "objectID": "people/alumni/Chenyu_Shen.html",
+    "href": "people/alumni/Chenyu_Shen.html",
+    "title": "Chenyu Shen",
+    "section": "",
+    "text": "Chenyu worked on higher-order interactions in competitive communities and their effects on community stability. Co-supervised with Prof. Jake Alexander, ETH Zurich."
+  },
+  {
+    "objectID": "people/alumni/Andrea_Tabi.html",
+    "href": "people/alumni/Andrea_Tabi.html",
+    "title": "Andrea Tabi",
+    "section": "",
+    "text": "Research Interests\nAndrea worked on the effects of warming on species interactions and subsequent effects on community properties. Co-supervised with Prof. Owen Petchey, University of Zurich."
+  },
+  {
+    "objectID": "people/alumni/Laura_Zanetti.html",
+    "href": "people/alumni/Laura_Zanetti.html",
+    "title": "Laura Zanetti",
+    "section": "",
+    "text": "Laura Zaneeti was a master student working on life history evolution in response to eutrophication. Co-supervised with Dr. Piet Spaak, EAWAG, Dübendorf."
+  },
+  {
+    "objectID": "people/alumni/David_Inauen.html",
+    "href": "people/alumni/David_Inauen.html",
+    "title": "David Inauen",
+    "section": "",
+    "text": "David was a master student working on the predictability of community dynamics. Co-supervised with Prof. Owen Petchey, University of Zurich."
   }
 ]

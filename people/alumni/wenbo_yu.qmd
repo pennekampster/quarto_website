@@ -4,8 +4,8 @@ description: "Visting PhD student"
 sortby: "Wenbo Yu"
 subtitle: "Visiting PhD student"
 image: imgs/Wenbo.jpg
-started: "2022"
-ended: "2024"
+started: "12/2022"
+ended: "9/2024"
 
 about:
   template: trestles

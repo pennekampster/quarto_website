@@ -1,0 +1,16 @@
+---
+title: "David Inauen"
+image: imgs/Kim.jpg
+description:  "Master student"
+sortby: "David Inauen"
+subtitle: "Master student"
+started: "12/2016"
+ended: "12/2017"
+
+about:
+  template: trestles
+  image: imgs/
+order: 1
+---
+
+David was a master student working on the predictability of community dynamics. Co-supervised with Prof. Owen Petchey, University of Zurich.
