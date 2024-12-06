@@ -1,6 +1,6 @@
 ---
 title: "Laura Zanetti"
-image: imgs/Kim.jpg
+image: imgs/no_pic.jpg
 description:  "Master student"
 sortby: "Laura Zanetti"
 subtitle: "Master student"
@@ -9,7 +9,7 @@ ended: "2/2022"
 
 about:
   template: trestles
-  image: imgs/
+  image: imgs/no_pic.jpg
 order: 1
 ---
 

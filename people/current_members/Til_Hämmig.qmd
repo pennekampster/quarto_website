@@ -1,0 +1,16 @@
+---
+title: "Til Hämmig"
+image: imgs/no_pic.jpg
+description:  "Master student"
+sortby: "Til Hämmig"
+subtitle: "Master student"
+started: "2/2021"
+ended: "11/2021"
+
+about:
+  template: trestles
+  image: imgs/no_pic.jpg
+order: 1
+---
+
+Co-supervised with Dr. Francesco Polazzo, University of Zurich.

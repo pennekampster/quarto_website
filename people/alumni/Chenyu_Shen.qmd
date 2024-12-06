@@ -1,6 +1,6 @@
 ---
 title: "Chenyu Shen"
-image: imgs/Kim.jpg
+image: imgs/no_pic.jpg
 description:  "Master student"
 sortby: "Chenyu Shen"
 subtitle: "Master student"
@@ -9,7 +9,7 @@ ended: "11/2021"
 
 about:
   template: trestles
-  image: imgs/
+  image: imgs/no_pic.jpg
 order: 1
 ---
 

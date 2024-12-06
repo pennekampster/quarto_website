@@ -1,6 +1,6 @@
 ---
 title: "David Inauen"
-image: imgs/Kim.jpg
+image: imgs/no_pic.jpg
 description:  "Master student"
 sortby: "David Inauen"
 subtitle: "Master student"
@@ -9,7 +9,7 @@ ended: "12/2017"
 
 about:
   template: trestles
-  image: imgs/
+  image: imgs/no_pic.jpg
 order: 1
 ---
 

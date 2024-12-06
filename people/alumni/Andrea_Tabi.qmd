@@ -1,6 +1,6 @@
 ---
 title: "Andrea Tabi"
-image: imgs/Kim.jpg
+image: imgs/no_pic.jpg
 description:  "PhD student"
 sortby: "Tabi, Andrea"
 subtitle: "PhD student"
@@ -9,7 +9,7 @@ ended: "5/2019"
 
 about:
   template: trestles
-  image: imgs/
+  image: imgs/no_pic.jpg
 order: 1
 ---
 

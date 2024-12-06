@@ -1,10 +1,10 @@
 ---
 title: "Fei Chen"
 description:  "Visiting PhD student"
-image: imgs/
+image: imgs/no_pic.jpg
 about:
   template: trestles
-  image: imgs/
+  image:  imgs/no_pic.jpg
   links:
     - icon: globe
       text: website
