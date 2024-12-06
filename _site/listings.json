@@ -1,8 +1,27 @@
 [
   {
+    "listing": "/research.html",
+    "items": [
+      "/research/Ecological_stability.html",
+      "/research/Higher order interactions.html",
+      "/research/Multiple_stressors.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/current_members/Fei_Chen.html",
+      "/people/current_members/Francesco_Polazzo.html",
+      "/people/current_members/Frank_Pennekamp.html",
+      "/people/current_members/Martina_Jelic.html",
+      "/people/alumni/Kimberley_Lemmen.html",
+      "/people/alumni/wenbo_yu.html"
     ]
   },
   {
@@ -46,74 +65,6 @@
       "/publications/publications/articles/2013-01-01_The_larval_ecology_o.html",
       "/publications/publications/preprints/Limberger_et_al_2024.html",
       "/publications/publications/preprints/Santos_et_al_2024.html"
-    ]
-  },
-  {
-    "listing": "/pubs.html",
-    "items": [
-      "/publications/index.html",
-      "/publications/2013-01-01_Implementing_image_a.html",
-      "/publications/2013-01-01_The_larval_ecology_o.html",
-      "/publications/2014-01-01_Dispersal_propensity.html",
-      "/publications/2014-01-01_Habitat_requirements.html",
-      "/publications/2014-01-01_Swimming_with_ciliat.html",
-      "/publications/2015-01-01_BEMOVI,_software_for.html",
-      "/publications/2015-01-01_Big_answers_from_sma.html",
-      "/publications/2015-01-01_Developing_and_Integ.html",
-      "/publications/2015-01-01_The_ecological_forec.html",
-      "/publications/2016-01-01_Re_Chaos_In_A_Long-T.html",
-      "/publications/2017-01-01_Characterizing_chang.html",
-      "/publications/2017-01-01_Dynamic_species_clas.html",
-      "/publications/2017-01-01_Temporal_scale_depen.html",
-      "/publications/2017-01-01_The_practice_of_pred.html",
-      "/publications/2018-01-01_Biodiversity_increas.html",
-      "/publications/2018-01-01_Bottom-up_and_top-do.html",
-      "/publications/2018-01-01_Linking_intraspecifi.html",
-      "/publications/2019-01-01_The_interplay_betwee.html",
-      "/publications/2019-01-01_The_intrinsic_predic.html",
-      "/publications/2019-01-01_Warming_can_destabil.html",
-      "/publications/2019-01-01_Warming_reduces_the_.html",
-      "/publications/2020-01-01_A_multidimensional_a.html",
-      "/publications/2020-01-01_Species_multidimensi.html",
-      "/publications/2020-01-01_Testing_multiple_dri.html",
-      "/publications/2021_Simmonset_al.html",
-      "/publications/2022_Suleiman_et_al.html",
-      "/publications/Constance_et_al_2022.html",
-      "/publications/Cote_et_al_2022.html",
-      "/publications/Daugaard_et_al_2022.html",
-      "/publications/Parreno_et_al_2022.html",
-      "/publications/Schroeder_et_al_2022.html",
-      "/publications/vanMoorsel_et_al_2022.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/current_members/Fei_Chen.html",
-      "/people/current_members/Francesco_Polazzo.html",
-      "/people/current_members/Frank_Pennekamp.html",
-      "/people/current_members/Martina_Jelic.html",
-      "/people/alumni/Kimberley_Lemmen.html",
-      "/people/alumni/wenbo_yu.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/Ecological_stability.html",
-      "/research/Higher order interactions.html",
-      "/research/Multiple_stressors.html"
-    ]
-  },
-  {
-    "listing": "/people2.html",
-    "items": [
-      "/people/current_members/Fei_Chen.html",
-      "/people/current_members/Francesco_Polazzo.html",
-      "/people/current_members/Frank_Pennekamp.html",
-      "/people/current_members/Martina_Jelic.html",
-      "/people/alumni/Kimberley_Lemmen.html",
-      "/people/alumni/wenbo_yu.html"
     ]
   }
 ]
