@@ -1,0 +1,12 @@
+---
+title: "The larval ecology of the butterfly Euphydryas desfontainii (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality"
+date: 2013-01-01
+author: Frank Pennekamp, Eva Monteiro, Thomas Schmitt
+year: 2013
+publication: Journal of Insect Conservation, (17), 1
+doi: https://doi.org/10.1007/s10841-012-9497-9
+link: 
+github: 
+---
+
+Corresponding to theory, the persistence of metapopulations in fragmented landscapes depends on the area of suitable habitat patches and their degree of isolation, mediating the individual exchange between habitats. More recently, habitat quality has been highlighted as being equally important. We therefore assess the role of habitat area, isolation and quality for the occupancy of larval stages of the regionally threatened butterfly Euphydryas desfontainii occurring in grassland habitats comprising the host plant Dipsascus comosus. We put a special focus on habitat quality which was determined on two spatial scales: the landscape (among patches) and the within-patch level. On the landscape level, occupancy of caterpillars was determined by a presence-absence analysis at 28 host plant patches. On the within-patch level, oviposition site selection was studied by comparing 159 host plants with egg clutches to a random sample of 253 unoccupied host plants within six habitat patches. The occupancy of caterpillars and presence of egg clutches on host plants was then related to several predictors such as patch size and isolation on the landscape level and host plant characteristics and immediate surroundings on the within patch level. On the landscape level, only host plant abundance was related to the presence of caterpillars, while size and isolation did not differ between occupied and unoccupied patches. However, the weak discrimination of larval stages among patches changed on the within-patch level: here, several microclimatic predictors such as sunshine hours and topography, host plant morphology and phenology as well as further potential host plants in the immediate surroundings of the plant chosen for oviposition strongly determined the presence of egg clutches. We strongly suggest promoting the presence of the host plant in topographically and structurally rich habitat patches to offer potential for microclimatic compensation for a species considered threatened by climate change.

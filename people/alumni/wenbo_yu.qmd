@@ -1,0 +1,51 @@
+---
+title: "Wenbo Yu"
+description: "Visting PhD student"
+sortby: "Wenbo Yu"
+subtitle: "Visiting PhD student"
+image: imgs/Wenbo.jpg
+started: "2022"
+ended: "2024"
+
+about:
+  template: trestles
+  image: imgs/wenbo.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/iwebyu
+    - icon: envelope
+      text: mail
+      href: mailto:wenbo.yu@uzh.ch
+order: 1
+---
+I am a PhD candidate supervised by [Shaopeng Li](https://liecology.com/people/) at East China Normal University. My main research interests are community ecology and invasion ecology. I use bacterial microcosm as model systems to figure out some fundamental questions of those two fields.
+
+From January of 2023, I carry out research as an academic guest with [Frank Pennekamp](https://www.ieu.uzh.ch/en/staff/member/pennekamp_frank.html) at UZH to understand the effects of environmental variability on  biodiversity and ecosystem functioning, and the field of ecological forecasting.
+
+### Research Interests
+
+- Community ecology
+- Plankton Biogeography
+- Ecological forecasting 
+
+### Education
+
+**East China Normal University**  
+PhD candidate in Ecology
+Research topic: The effect of phylogenetic distances on biological invasion at different temperatures: a microcosm study of Darwin's naturalization conundrum 
+Advisors: Shaopeng Li    
+Shanghai, China    
+From Sep.1.2019    
+
+**Jinan University**  
+Master in Aquatic ecology   
+Title: Species identification of zooplankton resting eggs based on DNA barcode technology. 
+Advisors: Qing Wang   
+Guangzhou, China    
+Granted June 2016  
+
+
+
+
+

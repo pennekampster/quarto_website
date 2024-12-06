@@ -1,7 +1,8 @@
 ---
 title: "Higher order interactions"
-image: imgs/
+image: images/profile.jpg
 ---
 
-We work on multiple stressor effects.
+Species interactions are commonly studied by decomposing a community into interacting pairs and quantifying the sign and strength of the interaction. However, in a multispecies context, a third species can indirectly modify a pairwise interaction; this is known as a higher-order interaction (HOI). Theoretical studies suggest that HOIs may be important for community stability. Empirical studies have documented that HOIs exist in nature; however, we lack a quantification of the dynamic effect of modifier density needed to evaluate theoretical predictions and model community composition changes over time. Our research aims to experimentally quantify how the presence of one or more modifier species influences competitive and trophic interactions. We have shown that accounting for food web structure is often necessary to understand and predict community dynamics. 
 
+### Publications

@@ -7,6 +7,6 @@ listing:
   type: grid
   categories: false
   image-align: 'right'
-  image-placeholder: 'imgs/Frank_small.jpeg'
+  image-placeholder: images/profile.jpg
 ---
 

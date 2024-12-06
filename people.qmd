@@ -1,33 +1,45 @@
 ---
 title: "People"
 listing:
-  contents: people
-  id: people_list
-  sort: "order"
-  type: grid
-  categories: false
-  image-align: 'right'
-  image-placeholder: 'imgs/Frank_small.jpeg'
+  - id: Current-lab-members
+    contents: "people/current_members/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: alumni
+    contents: "people/alumni/*.qmd"
+    type: table
+    sort: sortby
+    fields: [title, subtitle, started, ended]
+    sort-ui: [title, subtitle, started, ended]
+    filter-ui: [title, subtitle, started, ended]
+    field-display-names: 
+      title: "Name"
+      subtitle: "Role"
+      started: "Started"
 ---
 
-## Lab Members
 
-::: {#people_list}
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">People</li>
+  </ol>
+</nav>
+```
 
+## Current lab members
+
+::: {#Current-lab-members}
 :::
 
-## Previous
-
-### Postdoctoral
-
--   Dr. Vojsava Gjoni (2021-2022), SNF Scientific Exchanges scholar
-
-### Doctoral
-
--   Dr. Andrea Tabi (2016-2019)
-
-### Masters
-
--   2023: Martina Jelic (co-supervision)
--   2022: Laura Zanetti (co-supervision)
--   2021: Chenyu Shen
+## Alumni
+  
+:::{#alumni}
+:::

@@ -1,0 +1,23 @@
+---
+title: "Fei Chen"
+description:  "Visiting PhD student"
+image: imgs/
+about:
+  template: trestles
+  image: imgs/
+  links:
+    - icon: globe
+      text: website
+    - icon: github
+      text: Github
+    - icon: envelope
+      text: mail
+      href: mailto:fei.chenn@uzh.ch
+order: 2
+---
+
+### Research Interests
+
+### Education
+
+

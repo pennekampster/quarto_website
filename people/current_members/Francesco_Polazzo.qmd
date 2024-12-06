@@ -1,0 +1,61 @@
+---
+title: "Francesco Polazzo"
+image: imgs/Francesco.jpg
+description: "Postdoctoral Researcher"
+about:
+  template: trestles
+  image: imgs/Francesco.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/FrancescoPolaz1
+    - icon: envelope
+      text: mail
+      href: mailto:francesco.polazzo@uzh.ch
+order: 1
+---
+
+I have a background in global change ecology, and during my PhD with [Andreu Rico](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=anriar&idA=true), I have investigated the effects of multiple stressors on food web complexity and community stability. My PhD had a strong empirical focus, and I have performed multiple outdoor freshwater pond mesocosm experiments, as well as smaller, indoor, microcosm experiments to try to understand fundamental ecological processes. Particularly, I focused on how pulse disturbances can affect multiple dimensions of ecological stability (such as resistance, recovery, invariability, and resilience), and network complexity using weighted and unweighted metrics. 
+
+In November 2022, I moved to the University of Zurich as a postdoctoral researcher, under the supervision of [Frank Pennekamp](https://frank-pennekamp.info) and [Owen Petchey](https://www.ieu.uzh.ch/en/staff/member/petchey_owen.html). My postdoc project focuses on understanding the role of response diversity in determining ecological stability in competitive and trophic communities under multiple environmental drivers. To address the topic, I will use series of theory-grounded microcosm experiments involving communities of ciliates. 
+
+### Research Interests
+
+- Ecological stability
+- Species interactions and food webs
+- Community ecology
+- Multiple stressors
+
+### Experience
+
+**University of Zurich**  
+2022 - present
+*Postdoctoral researcher*
+Advisors: Prof. Owen Petchey and Dr. Frank Pennekamp
+
+
+### Education
+
+**Universidad de Alcalá**  
+PhD in Ecology    
+Title: Effects of multiple stressor on community stability
+Advisors: Andreu Rico   
+Alcalá de Henares (Madrid), Spain    
+Granted September 2022    
+
+**University of Trieste**  
+Master's degree in Global Change Ecology  
+Title: Alpine lakes as indicators of global change: two examples from North-Italy.
+Trieste, Italy    
+Granted March 2018  
+
+**University of Trieste**  
+Bachelor's degree in Biological Sciences and Technologies  
+Title: Hydraulic strategies and drought survival of co-occurring Pinus nigra trees in the Karts: any evidence for genotypic differences?
+Trieste, Italy    
+Granted September 2015 
+
+
+
+
+

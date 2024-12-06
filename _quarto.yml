@@ -6,7 +6,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Predictive community ecology"
+  title: "Biotic responses to environmental change"
   description: "Website of the research group of Frank Pennekamp"
   site-url: https://frank-pennekamp.info
   repo-url: https://github.com/pennekampster/quarto_website

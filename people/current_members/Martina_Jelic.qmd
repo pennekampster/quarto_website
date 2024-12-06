@@ -1,0 +1,42 @@
+---
+title: "Martina Jelic"
+image: imgs/Martina2.jpg
+description: "PhD Student"
+about:
+  template: trestles
+  image: imgs/Martina2.jpg
+  links:
+    - icon: envelope
+      text: mail
+      href: mailto:martina.jelic@uzh.ch
+order: 1
+---
+
+During my Master's studies (supervised by Dr. [Romana Limberger](https://www.ieu.uzh.ch/en/staff/member/limberger_romana.html) and Dr. Frank Pennekamp), I investigated the effects of thermal evolution on a consumer-resource interaction using protist microcosms as model systems. Now, in my PhD research, I use the same model systems to investigate the effects of multiple stressors on consumer-resource systems and their predictability.
+
+### Research Interests
+
+- Species interactions
+- Thermal evolution
+- Multiple stressors
+
+### Experience
+
+**University of Zurich**  
+2023 - present
+*PhD Student*
+Supervisor: Dr. Frank Pennekamp
+
+
+### Education
+
+**University of Zürich**  
+Master in Quantitative Environmental Sciences  
+Title: The effects of thermal evolution on trophic interactions.
+Zürich, Switzerland    
+Granted January 2023
+
+
+
+
+

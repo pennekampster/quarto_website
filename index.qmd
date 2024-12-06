@@ -12,8 +12,8 @@ title-block-banner: false
 
 ![](images/biotic_responses.jpeg)
 
-This is the website of the predictive community ecology group led by [Frank Pennekamp](https://www.ieu.uzh.ch/en/research/ecology/biotic_responses.html) in the Department of Evolutionary Biology and Environmental Studies at the University of Zurich.
+This is the website of the "Biotic responses to environmental change" group led by [Frank Pennekamp](https://www.ieu.uzh.ch/en/research/ecology/biotic_responses.html) in the Department of Evolutionary Biology and Environmental Studies at the University of Zurich.
 
-In a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory: we work with microbial model systems and perform mathematical and statistical modeling.
+In a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory using microbial model systems and mathematical and statistical modeling.
 
 # News

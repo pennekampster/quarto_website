@@ -1,7 +1,6 @@
 ---
-title: "Ecological stability"
-image: imgs/
+title: "Ecological stability in a warming world"
+image: images/biotic_responses.jpeg
 ---
 
-We work on multiple stressor effects.
-
+We are interested in the effects of environmental change on the stability of ecological communities. We use a combination of theoretical and empirical approaches to understand how multiple facets of stability are affected by temperature change. A particular focus of our work is to understand how the effects of environmental change on stability are mediated by the interactions between species.

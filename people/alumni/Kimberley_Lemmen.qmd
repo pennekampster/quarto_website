@@ -1,0 +1,33 @@
+---
+title: "Kimberley Lemmen"
+image: imgs/Kim.jpg
+description:  "Postdoctoral researcher"
+sortby: "Kimberley Lemmen"
+subtitle: "Postdoctoral researcher"
+started: "2021"
+ended: "2024"
+
+about:
+  template: trestles
+  image: imgs/Kim.jpg
+  links:
+    - icon: globe
+      text: website
+      href: https://k-lemmen.github.io/
+    - icon: github
+      text: Github
+      href: https://github.com/k-lemmen
+    - icon: envelope
+      text: mail
+      href: mailto:kimberley.lemmen@uzh.ch
+order: 1
+---
+
+### Next position
+SNF mobility fellowship at the University of Montpellier, France
+
+### Research Interests
+
+I am an experimental evolutionary ecologist interested in understanding how environmental context (e.g., food web structure, resource quality) modifies species interactions. Species interactions are among the most important forces structuring ecological communities and are often environment-dependent. Current approaches to predict changes in community structure over time often fail to reproduce observed dynamics, suggesting that ecologists are missing important biological mechanisms causing the patterns we see in nature. My research aims to quantify the ecological and evolutionary impact of environmental context on species interactions to better understand the mechanisms that maintain biodiversity and drive community dynamics.
+
+### Education

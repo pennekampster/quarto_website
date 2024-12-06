@@ -1,16 +1,34 @@
 ---
 listing:
-  contents: .
-  template: pubs.ejs
-  sort: "date desc"
-  categories: false
-  sort-ui: [date, title, author]
-  filter-ui: [date, title, author, details]
-  date-format: "YYYY"
-  page-size: 50
-sidebar: true
-page-layout: full
-title-block-banner: true
+  - id: articles
+    contents: publications/articles/*.md
+    template: articles.ejs
+    categories: false
+    sort:
+      - "year desc"
+    sort-ui: [year]
+    filter-ui: [title,author,publication,year]
+    page-size: 10
+    field-display-names:
+      year: "Year"
+  - id: preprints
+    contents: publications/preprints/*.md
+    template: articles.ejs
+    categories: false
+    sort:
+      - "year desc"
+    sort-ui: [year]
+    filter-ui: [title,author,publication,year]
+    page-size: 10
+    field-display-names:
+      year: "Year"
 ---
 
-# Publications
+
+# Preprints
+::: {#preprints}
+:::
+
+# Peer-reviewed articles
+::: {#articles}
+:::

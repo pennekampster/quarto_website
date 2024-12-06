@@ -1,0 +1,12 @@
+---
+title: "Causal discovery in biodiversity-mediated social-ecological systems"
+date: "2024-11-01"
+author: Maria J Santos, Pengjuan Zu, Debra Zuppinger-Dingley, Maarten B Eppinga, Anubhav Gupta, Frank Pennekamp, Cheng Li, Sarah Mayor, Camilla Stefanini, Yuji Tokumoto, Sofia J van Moorsel, Marylaure Harpe, Martin O Reader, Lidong Mo, Veruska Muccione, Meredith C Schuman
+year: 2024
+publication: bioRxiv
+doi: https://doi.org/10.1101/2024.05.26.595962
+link: 
+github:
+---
+
+Global biodiversity loss and climate change exacerbate feedbacks within social-ecological systems, i.e., between ecosystems, their services and well-being of human societies. Our ability to mediate these feedbacks is hampered by incomplete understanding of the underlying causal links, which could benefit from interdisciplinary approaches to discover theoretical or empirical links from heterogeneous data characteristic of social-ecological studies. We propose a novel framework connecting literature-based causal knowledge with data-driven inference of causality. We test this framework for the highly biodiverse island of Borneo by conducting a systematic literature review of 7473 studies over 170 years, and a causal inference analysis for three conceptual causal diagrams connecting global change, socio-economics, ecosystem services, and biodiversity-ecosystem function using a set of 227 spatially explicit variables. We find that, while natural or social processes have been mostly studied independently, a set of studies already documents causal links across social-ecological domains for processes related to deforestation, food or energy. Causal discovery unveiled consistent negative causal links between global change, social-economic landscape, and biodiversity-ecosystem function, and positive causal links between global change and socio-economics, and these links were robust to indicator selection and addition. We detected few and weak links between social-economic landscape, global change, and ecosystem services. When comparing the data-driven inferred causal links to those documented by the literature, we find that links between biodiversity and ecosystem function with global change, and links between social-economic landscape and ecosystem services were also consistent, and causal analysis uncovered new (potential) causal links not yet described in the literature.
