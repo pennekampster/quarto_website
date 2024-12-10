@@ -1,23 +1,55 @@
 ---
 title: "Fei Chen"
 description:  "Visiting PhD student"
-image: imgs/no_pic.jpg
+image: imgs/Fei.jpg
 about:
   template: trestles
-  image:  imgs/no_pic.jpg
+  image: imgs/Fei.jpg
   links:
-    - icon: globe
-      text: website
-    - icon: github
-      text: Github
+    - icon: ResearchGate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Fei-Chen-7
     - icon: envelope
       text: mail
-      href: mailto:fei.chenn@uzh.ch
+      href: mailto:fei.chen@uzh.ch
 order: 2
 ---
 
 ### Research Interests
 
+I have always focused on species (trophic) interactions and mechanisms of species coexistence. During my master's studies at Fudan University with Professor [Shurong Zhou](https://www.researchgate.net/profile/Shurong-Zhou), I conducted surveys of grassland plant communities and their herbivory on the Qinghai-Tibetan Plateau. My research revealed how warming and fertilization influence plant species colonization and extinction through trait-based filtering and stochastic processes. And I demonstrated how changes in plant community composition affect herbivory.
+
+Currently, I am pursuing a Ph.D. with Professor [Xinqiang Xi](https://www.researchgate.net/profile/Xinqiang-Xi) at Nanjing University. In Xi's Lab, I continue to investigate the role of species interactions in driving species coexistence. I have utilized the Drosophila and parasitoid species as a model system, where I conduct mesocosm experiments and apply population dynamic models within the framework of modern coexistence theory. Specifically, I am interested in how competition-induced trait changes influence competitive dynamics and how these interactions shift in the presence of natural enemies.
+
+In November 2014, I joined the group of Dr. [Frank Pennekamp](https://frank-pennekamp.info) as a visiting student for one year to further explore how trophic interactions respond to the biotic factors. My recent work will combine phenomenological and mechanistic models to better understand the ecological processes observed during experiments. At the meaning time, I am also trying to utilize the ciliate communities to address critical scientific questions through carefully designed experiments.\
+
+### Research Interests
+
+-   Species interactions
+-   Species coexistence
+-   Functional traits
+-   Community ecology
+
 ### Education
 
+**University of Zurich**\
+2024 - present &nbsp;&nbsp; *Visiting PhD student* &nbsp;&nbsp;&nbsp;Advisors: Dr. Frank Pennekamp
+
+**Nanjing University**\
+2021 - present &nbsp;&nbsp;&nbsp;*PhD Candidate* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors: Xinqiang Xi
+
+**Fudan University**\
+Master's degree in Ecology\
+Title: The effects of nitrogen addition on plant diversity and herbivory in an alpine meadow.\
+Granted June 2019
+
+**Nanjing Agriculture University**\
+Bachelor's degree in Ecology\
+Title: Comparing the effects of random and realistic plant species loss orders on the Biodiversity-Ecosystem Functioning relationships\
+Granted June 2016
+
+### Contact Information
+
+- **Email**: [fei.chen@uzh.ch](mailto:fei.chen@uzh.ch) or [chenfei2676@gmail.com](mailto:chenfei2676@gmail.com)
+- **ResearchGate**: [Fei Chen on ResearchGate](https://www.researchgate.net/profile/Fei-Chen-7)
 
