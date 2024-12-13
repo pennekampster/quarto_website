@@ -6,6 +6,8 @@ about:
   template: trestles
   image: imgs/Francesco.jpg
   links:
+    - text: "{{< iconify simple-icons bluesky>}}"
+      href: https://bsky.app/profile/fancescopolazzo.bsky.social
     - icon: twitter
       text: twitter
       href: https://twitter.com/FrancescoPolaz1

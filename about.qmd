@@ -1,0 +1,19 @@
+---
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+![](images/biotic_responses.jpeg)
+
+This is the website of the "Biotic responses to environmental change" group led by [Frank Pennekamp](people/current_members/Frank_Pennekamp.qmd) in the [Department of Evolutionary Biology and Environmental Studies](https://www.ieu.uzh.ch/en.html) at the University of Zurich.
+
+In a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory using model systems (e.g., microorganisms, dung dwelling insects), and mathematical and statistical modeling. Occassionally, we also do analysis on large scale data compilations (e.g. time series of abundance), for instance, to understand the limits of ecological predictability.
+
+# News

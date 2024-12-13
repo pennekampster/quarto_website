@@ -9,8 +9,7 @@ about:
     - icon: globe
       text: lab website
       href: https://frank-pennekamp.info
-    - icon: bluesky
-      text: bluesky
+    - text: "{{< iconify simple-icons bluesky>}}"
       href: https://bsky.app/profile/pennekampster.bsky.social
     - icon: github
       text: Github

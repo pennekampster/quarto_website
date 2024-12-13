@@ -12,16 +12,16 @@ website:
   repo-url: https://github.com/pennekampster/quarto_website
   navbar:
     right:
-      - icon: github
-        href: https://github.com/pennekampster/
-      - icon: twitter
-        href: https://twitter.com/pennekampster
+      - icon: email
+        href: frank.pennekamp@ieu.uzh.ch
+      - icon: scholar
+        href: https://scholar.google.de/citations?user=yRx8FTsAAAAJ&hl=de
     left:
-      - href: index.qmd
+      - href: about.qmd
         text: Home
       - href: people.qmd
-      - href: research.qmd
-      - href: publications/index.qmd
+#      - href: research.qmd
+      - href: publications/publications.qmd
         text: Publications
       - href: software.qmd
 

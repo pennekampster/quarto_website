@@ -12,7 +12,9 @@ about:
 order: 1
 ---
 
-During my Master's studies (supervised by Dr. [Romana Limberger](https://www.ieu.uzh.ch/en/staff/member/limberger_romana.html) and Dr. Frank Pennekamp), I investigated the effects of thermal evolution on a consumer-resource interaction using protist microcosms as model systems. Now, in my PhD research, I use the same model systems to investigate the effects of multiple stressors on consumer-resource systems and their predictability.
+During my Master's studies (supervised by Dr. [Romana Limberger](https://www.ieu.uzh.ch/en/staff/member/limberger_romana.html) and Dr. Frank Pennekamp), I investigated the effects of thermal evolution on a consumer-resource interaction using protist microcosms as model systems. 
+
+In my PhD research, I use the same model systems to investigate the effects of multiple stressors on consumer-resource systems and their predictability.
 
 ### Research Interests
 

@@ -73,5 +73,54 @@
       "/publications/publications/preprints/Limberger_et_al_2024.html",
       "/publications/publications/preprints/Santos_et_al_2024.html"
     ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/publications.html",
+    "items": [
+      "/publications/publications/articles/Lemmen_Pennekamp_2024.html",
+      "/publications/publications/articles/Polazzo_et_al_2024.html",
+      "/publications/publications/articles/Schroeder_et_al_2024.html",
+      "/publications/publications/articles/Cote_et_al_2022.html",
+      "/publications/publications/articles/Munch_et_al_2023.html",
+      "/publications/publications/articles/Shen_et_al_2023.html",
+      "/publications/publications/articles/vanMoorsel_et_al_2022.html",
+      "/publications/publications/articles/2022_Suleiman_et_al.html",
+      "/publications/publications/articles/Constance_et_al_2022.html",
+      "/publications/publications/articles/Daugaard_et_al_2022.html",
+      "/publications/publications/articles/Parreno_et_al_2022.html",
+      "/publications/publications/articles/2021_Simmonset_al.html",
+      "/publications/publications/articles/2020-01-01_A_multidimensional_a.html",
+      "/publications/publications/articles/2020-01-01_Species_multidimensi.html",
+      "/publications/publications/articles/2020-01-01_Testing_multiple_dri.html",
+      "/publications/publications/articles/2019-01-01_The_interplay_betwee.html",
+      "/publications/publications/articles/2019-01-01_The_intrinsic_predic.html",
+      "/publications/publications/articles/2019-01-01_Warming_can_destabil.html",
+      "/publications/publications/articles/2019-01-01_Warming_reduces_the_.html",
+      "/publications/publications/articles/2018-01-01_Biodiversity_increas.html",
+      "/publications/publications/articles/2018-01-01_Bottom-up_and_top-do.html",
+      "/publications/publications/articles/2018-01-01_Linking_intraspecifi.html",
+      "/publications/publications/articles/2017-01-01_Characterizing_chang.html",
+      "/publications/publications/articles/2017-01-01_Dynamic_species_clas.html",
+      "/publications/publications/articles/2017-01-01_Temporal_scale_depen.html",
+      "/publications/publications/articles/2017-01-01_The_practice_of_pred.html",
+      "/publications/publications/articles/2016-01-01_Re_Chaos_In_A_Long-T.html",
+      "/publications/publications/articles/2015-01-01_BEMOVI,_software_for.html",
+      "/publications/publications/articles/2015-01-01_Big_answers_from_sma.html",
+      "/publications/publications/articles/2015-01-01_Developing_and_Integ.html",
+      "/publications/publications/articles/2015-01-01_The_ecological_forec.html",
+      "/publications/publications/articles/2014-01-01_Dispersal_propensity.html",
+      "/publications/publications/articles/2014-01-01_Habitat_requirements.html",
+      "/publications/publications/articles/2014-01-01_Swimming_with_ciliat.html",
+      "/publications/publications/articles/2013-01-01_Implementing_image_a.html",
+      "/publications/publications/articles/2013-01-01_The_larval_ecology_o.html",
+      "/publications/publications/preprints/Limberger_et_al_2024.html",
+      "/publications/publications/preprints/Santos_et_al_2024.html"
+    ]
   }
 ]
