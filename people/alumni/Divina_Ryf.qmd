@@ -4,8 +4,8 @@ image:  imgs/no_pic.jpg
 description:  "Master student"
 sortby: "Divina Ryf"
 subtitle: "Master student"
-started: "2/2021"
-ended: "11/2021"
+started: "10/2023"
+ended: "02/2025"
 
 about:
   template: trestles

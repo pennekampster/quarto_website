@@ -4,8 +4,8 @@ image: imgs/no_pic.jpg
 description:  "Master student"
 sortby: "Til Hämmig"
 subtitle: "Master student"
-started: "2/2021"
-ended: "11/2021"
+started: "2/2024"
+ended: "2/2025"
 
 about:
   template: trestles
