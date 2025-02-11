@@ -1,7 +1,7 @@
 ---
 title: "The imbalance of nature: The Role of Species Environmental Responses for Ecosystem Stability."
 date: "2025-02-04"
-author: Francesco Polazzo, Til Hämmig,, Owen L. Petchey, & Frank Pennekamp 
+author: Francesco Polazzo, Til Hämmig, Owen L. Petchey, Frank Pennekamp 
 year: 2025
 publication: bioRxiv
 doi: https://doi.org/10.1101/2025.01.30.635685
