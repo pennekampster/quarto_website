@@ -1,30 +1,5 @@
 [
   {
-    "listing": "/about.html",
-    "items": [
-      "/posts/Master students graduating/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/current_members/Fei_Chen.html",
-      "/people/current_members/Francesco_Polazzo.html",
-      "/people/current_members/Frank_Pennekamp.html",
-      "/people/current_members/Martina_Jelic.html",
-      "/people/alumni/Chenyu_Shen.html",
-      "/people/alumni/David_Inauen.html",
-      "/people/alumni/Divina_Ryf.html",
-      "/people/alumni/Kimberley_Lemmen.html",
-      "/people/alumni/Laura_Zanetti.html",
-      "/people/alumni/Andrea_Tabi.html",
-      "/people/alumni/Til_Hämmig.html",
-      "/people/alumni/Vojsava_Gjoni.html",
-      "/people/alumni/wenbo_yu.html"
-    ]
-  },
-  {
     "listing": "/publications/publications.html",
     "items": [
       "/publications/publications/articles/Lemmen_Pennekamp_2024.html",
@@ -63,9 +38,35 @@
       "/publications/publications/articles/2014-01-01_Swimming_with_ciliat.html",
       "/publications/publications/articles/2013-01-01_Implementing_image_a.html",
       "/publications/publications/articles/2013-01-01_The_larval_ecology_o.html",
+      "/publications/publications/preprints/Gjoni_et_al_2025.html",
       "/publications/publications/preprints/Palazzo_et_al_2025.html",
       "/publications/publications/preprints/Limberger_et_al_2024.html",
       "/publications/publications/preprints/Santos_et_al_2024.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/current_members/Fei_Chen.html",
+      "/people/current_members/Francesco_Polazzo.html",
+      "/people/current_members/Frank_Pennekamp.html",
+      "/people/current_members/Martina_Jelic.html",
+      "/people/alumni/Chenyu_Shen.html",
+      "/people/alumni/David_Inauen.html",
+      "/people/alumni/Divina_Ryf.html",
+      "/people/alumni/Kimberley_Lemmen.html",
+      "/people/alumni/Laura_Zanetti.html",
+      "/people/alumni/Andrea_Tabi.html",
+      "/people/alumni/Til_Hämmig.html",
+      "/people/alumni/Vojsava_Gjoni.html",
+      "/people/alumni/wenbo_yu.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/Master students graduating/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
