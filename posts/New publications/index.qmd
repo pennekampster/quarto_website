@@ -1,0 +1,10 @@
+---
+title: ""
+author: "Frank Pennekamp"
+date: "2025-08-08"
+categories:
+  - news
+---
+
+Two new publications came out recently: the first is a News & Views article in which I highlight some exciting new work by Meng et al. (2025) to partition when species interactions or intrinsic dynamics are most important drivers of temporal stability. The second paper led by Romana Limberger investigates the role of biodiversity on the forecastability of population and community dynamics in changing environments. Please check them out.
+

@@ -2,7 +2,7 @@
 title: "Dispersal syndromes in challenging environments: A cross-species experiment"
 date: "2022-10-01"
 author: Julien Cote, Maxime Dahirel, Nicolas Schtickzelle, Florian Altermatt, Armelle Ansart, Simon Blanchet, Alexis S. Chaine, Frederik De Laender, Jonathan De Raedt, Bart Haegeman, Staffan Jacob, Oliver Kaltz, Estelle Laurent, Chelsea J. Little, Luc Madec, Florent Manzi, Stefano Masier, Felix Pellerin, Frank Pennekamp, Lieven Therry, Alexandre Vong, Laurane Winandy, Dries Bonte, Emanuel A. Fronhofer, Delphine Legrand
-publication: Ecology Letters (25), 12
+publication: Ecology Letters
 year: 2023
 doi: https://doi.org/10.1111/ele.14124
 link: 
