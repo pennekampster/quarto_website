@@ -2,6 +2,10 @@
 title: "Francesco Polazzo"
 image: imgs/Francesco.jpg
 description: "Postdoctoral Researcher"
+subtitle: "Postdoctoral researcher"
+started: "10/2022"
+ended: "05/2025"
+
 about:
   template: trestles
   image: imgs/Francesco.jpg
