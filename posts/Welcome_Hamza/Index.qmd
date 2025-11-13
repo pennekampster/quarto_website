@@ -1,0 +1,9 @@
+---
+title: ""
+author: "Frank Pennekamp"
+date: "2025-11-13"
+categories:
+  - news
+---
+
+Hamza has joined the group as a new PhD student. You can read about his journey [here](people/current_members/HamzaShafiq.qmd). Welcome Hamza!

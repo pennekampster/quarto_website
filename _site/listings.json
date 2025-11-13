@@ -50,6 +50,7 @@
     "items": [
       "/people/current_members/Fei_Chen.html",
       "/people/current_members/Frank_Pennekamp.html",
+      "/people/current_members/HamzaShafiq.html",
       "/people/current_members/Martina_Jelic.html",
       "/people/alumni/Chenyu_Shen.html",
       "/people/alumni/David_Inauen.html",
@@ -66,6 +67,7 @@
   {
     "listing": "/about.html",
     "items": [
+      "/posts/Welcome_Hamza/Index.html",
       "/posts/New publications/index.html",
       "/posts/Master students graduating/index.html",
       "/posts/welcome/index.html"

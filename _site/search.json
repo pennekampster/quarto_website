@@ -214,7 +214,7 @@
     "href": "people.html#current-lab-members",
     "title": "People",
     "section": "Current lab members",
-    "text": "Current lab members\n\n\n\n\n\n\n\n\n\n\nFei Chen\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\nMartina Jelic\n\n\n\n\n\nNo matching items"
+    "text": "Current lab members\n\n\n\n\n\n\n\n\n\n\nFei Chen\n\n\n\n\n\n\n\n\n\n\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\nHamza Shafiq\n\n\n\n\n\n\n\n\n\n\n\n\nMartina Jelic\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#alumni",
@@ -228,7 +228,7 @@
     "href": "about.html",
     "title": "News",
     "section": "",
-    "text": "This is the website of the “Biotic responses to environmental change” group led by Frank Pennekamp in the Department of Evolutionary Biology and Environmental Studies at the University of Zurich.\nIn a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory using model systems (e.g., microorganisms, dung dwelling insects), and mathematical and statistical modeling. Occassionally, we also do analysis on large scale data compilations (e.g. time series of abundance), for instance, to understand the limits of ecological predictability.\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 11, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 6, 2024\n\n\nFrank Pennekamp\n\n\n\n\n\nNo matching items"
+    "text": "This is the website of the “Biotic responses to environmental change” group led by Frank Pennekamp in the Department of Evolutionary Biology and Environmental Studies at the University of Zurich.\nIn a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory using model systems (e.g., microorganisms, dung dwelling insects), and mathematical and statistical modeling. Occassionally, we also do analysis on large scale data compilations (e.g. time series of abundance), for instance, to understand the limits of ecological predictability.\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 13, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 11, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 6, 2024\n\n\nFrank Pennekamp\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/alumni/Andrea_Tabi.html",
@@ -460,5 +460,26 @@
     "title": "Mixed Evidence for Species Diversity Affecting Ecological Forecasts in Constant Versus Declining Light",
     "section": "",
     "text": "Accurate forecasts of ecological dynamics are critical for ecosystem management and conservation, yet the drivers of forecastability are poorly understood. Environmental change and diversity are considered major challenges to ecological forecasting. This assumption, however, has never been tested experimentally because forecasts have high data requirements. In a long-term microcosm experiment, we manipulated the species richness of 30 experimental protist communities and exposed them to constant or gradually decreasing light levels. We collected finely resolved time series (123 sampling dates over 41 weeks) of species abundances, community biomass, and oxygen concentrations. We then employed data-driven forecasting methods to forecast these variables. We found that species richness and light had a weak interactive effect on forecasts of species abundances: richness tended to reduce forecast accuracy in constant light but tended to increase forecast accuracy in declining light. These effects could partially be explained by differences among time series in variability and autocorrelation. Forecasts of aggregate properties (community biomass, oxygen), however, were unaffected by richness and light and were not more accurate than those of species abundances. Our forecasts were based on time series that were detrended and standardized. Since real-world forecasting applications require predictions at the original scale of the forecasted variable, it is important to note that the results were qualitatively identical when back-transforming the forecasts to the original scale. Taken together, we found no strong evidence that higher diversity results in lower forecastability. Rather, our results imply that promoting diversity could make populations more predictable when environmental conditions change. From a conservation and management perspective, our findings suggest preliminary support that diversity conservation might have beneficial effects on decision-taking by increasing the forecastability of species abundances in changing environments."
+  },
+  {
+    "objectID": "people/current_members/HamzaShafiq.html",
+    "href": "people/current_members/HamzaShafiq.html",
+    "title": "Hamza Shafiq",
+    "section": "",
+    "text": "I come from a mixed background in Physics and Biology, and I’ve always been fascinated by where the two meet. During my Bachelor’s in Physics, I found myself drawn to the ways physical principles could help make sense of living systems. That curiosity shaped my path toward a Master’s in Physics of Life, where I specialized in Experimental Biophysics. For my Master’s thesis in Dr. Henrik Bringmann’s lab, I explored the link between sleep and metabolism in the roundworm C. elegans— a project that deepened my appreciation for how complex behaviors can emerge from simple biological systems.\nFor my doctoral project, I’m excited to bring together my experience in the wet lab with my physics background to study predator–prey dynamics. I’m particularly interested in how movement and behavior shape these interactions and what that can reveal about the underlying rules governing ecological systems.\n\nResearch Interests\n\nPredator Prey Dynamics\nEvolutionary/Developmental Biology\nNon Linear Dynamics\n\n\n\nExperience\nBringmann Lab, Technische Universität Dresden\nOct 2024 - July 2025 Scientific Help Supervisor: Dr. Henrik Bringmann\nCampas Lab, Technische Universität Dresden Mar 2024 - Aug 2024 Student Help Supervisor: Dr. Arthur Boutillon\n\n\nEducation\nUniversity of Zurich\n2025 - present PhD Student Supervisor: Dr. Frank Pennekamp\nTechnische Universität Dresden\nMS Physics of Life\nDresden, Germany\nGranted September 2024\nNUST, Islamabad BS Physics Islamabad, Pakistan Granted 2022"
+  },
+  {
+    "objectID": "posts/Welcome Hamza/Index.html",
+    "href": "posts/Welcome Hamza/Index.html",
+    "title": "Biotic responses to environmental change",
+    "section": "",
+    "text": "Hamza has joined the group as a new PhD student. You can read about his journey (here)[“/posts/Welcome Hamza/index.qmd”]. Welcome Hamza!"
+  },
+  {
+    "objectID": "posts/Welcome_Hamza/Index.html",
+    "href": "posts/Welcome_Hamza/Index.html",
+    "title": "Biotic responses to environmental change",
+    "section": "",
+    "text": "Hamza has joined the group as a new PhD student. You can read about his journey here. Welcome Hamza!"
   }
 ]

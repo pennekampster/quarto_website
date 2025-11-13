@@ -1,0 +1,56 @@
+---
+title: "Hamza Shafiq"
+description: "PhD Candidate"
+image: imgs/Hamza2.JPG
+about:
+  template: trestles
+  image: imgs/Hamza2.JPG
+  links:
+    - icon: envelope
+      text: mail
+      href: mailto:hamza.shafiq@uzh.ch
+order: 1
+---
+
+I come from a mixed background in Physics and Biology, and I’ve always been fascinated by where the two meet. During my Bachelor’s in Physics, I found myself drawn to the ways physical principles could help make sense of living systems. That curiosity shaped my path toward a Master’s in Physics of Life, where I specialized in Experimental Biophysics. For my Master’s thesis in Dr. Henrik Bringmann’s lab, I explored the link between sleep and metabolism in the roundworm _C. elegans_— a project that deepened my appreciation for how complex behaviors can emerge from simple biological systems.
+
+For my doctoral project, I’m excited to bring together my experience in the wet lab with my physics background to study predator–prey dynamics. I’m particularly interested in how movement and behavior shape these interactions and what that can reveal about the underlying rules governing ecological systems.
+
+
+### Research Interests
+
+- Predator Prey Dynamics 
+- Evolutionary/Developmental Biology
+- Non Linear Dynamics
+
+### Experience
+
+**Bringmann Lab, Technische Universität Dresden**  
+Oct 2024 - July 2025
+*Scientific Help*
+Supervisor: Dr. Henrik Bringmann
+
+**Campas Lab, Technische Universität Dresden** 
+Mar 2024 - Aug 2024
+*Student Help* 
+Supervisor: Dr. Arthur Boutillon
+
+### Education
+
+**University of Zurich**  
+2025 - present
+*PhD Student*
+Supervisor: Dr. Frank Pennekamp
+
+**Technische Universität Dresden**  
+MS Physics of Life  
+Dresden, Germany  
+Granted September 2024
+
+**NUST, Islamabad**
+BS Physics 
+Islamabad, Pakistan
+Granted 2022
+
+
+
