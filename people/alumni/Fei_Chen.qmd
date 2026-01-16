@@ -13,6 +13,9 @@ about:
       text: mail
       href: mailto:fei.chen@uzh.ch
 order: 2
+subtitle: "Visiting PhD student"
+started: "11/2024"
+ended: "1/2026"
 ---
 
 ### Research Interests

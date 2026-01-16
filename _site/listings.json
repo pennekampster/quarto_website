@@ -2,8 +2,11 @@
   {
     "listing": "/publications/publications.html",
     "items": [
+      "/publications/publications/articles/Gjoni_et_al_2025.html",
       "/publications/publications/articles/Limberger_et_al_2025.html",
+      "/publications/publications/articles/Palazzo_et_al_2025.html",
       "/publications/publications/articles/Pennekamp_2025.html",
+      "/publications/publications/articles/Zhao_et_al_2025.html",
       "/publications/publications/articles/Lemmen_Pennekamp_2024.html",
       "/publications/publications/articles/Polazzo_et_al_2024.html",
       "/publications/publications/articles/Schroeder_et_al_2024.html",
@@ -40,15 +43,12 @@
       "/publications/publications/articles/2014-01-01_Swimming_with_ciliat.html",
       "/publications/publications/articles/2013-01-01_Implementing_image_a.html",
       "/publications/publications/articles/2013-01-01_The_larval_ecology_o.html",
-      "/publications/publications/preprints/Gjoni_et_al_2025.html",
-      "/publications/publications/preprints/Palazzo_et_al_2025.html",
       "/publications/publications/preprints/Santos_et_al_2024.html"
     ]
   },
   {
     "listing": "/people.html",
     "items": [
-      "/people/current_members/Fei_Chen.html",
       "/people/current_members/Frank_Pennekamp.html",
       "/people/current_members/HamzaShafiq.html",
       "/people/current_members/Martina_Jelic.html",
@@ -61,6 +61,7 @@
       "/people/alumni/Til_Hämmig.html",
       "/people/alumni/Vojsava_Gjoni.html",
       "/people/alumni/wenbo_yu.html",
+      "/people/alumni/Fei_Chen.html",
       "/people/alumni/Francesco_Polazzo.html"
     ]
   },
