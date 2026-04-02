@@ -1,0 +1,9 @@
+---
+title: ""
+author: "Frank Pennekamp"
+date: "2026-2-1"
+categories:
+  - news
+---
+
+Ségolène has joined the group as postdoctoral researcher funded by an SNF Postdoc.Mobility fellowship. You can read about her research [here](../../people/current_members/Segolene_Humann.qmd). Welcome Ségolène!

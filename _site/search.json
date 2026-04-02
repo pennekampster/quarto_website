@@ -228,7 +228,7 @@
     "href": "about.html",
     "title": "News",
     "section": "",
-    "text": "This is the website of the “Biotic responses to environmental change” group led by Frank Pennekamp in the Department of Evolutionary Biology and Environmental Studies at the University of Zurich.\nIn a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory using model systems (e.g., microorganisms, dung dwelling insects), and mathematical and statistical modeling. Occassionally, we also do analysis on large scale data compilations (e.g. time series of abundance), for instance, to understand the limits of ecological predictability.\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 13, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 11, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 6, 2024\n\n\nFrank Pennekamp\n\n\n\n\n\nNo matching items"
+    "text": "This is the website of the “Biotic responses to environmental change” group led by Frank Pennekamp in the Department of Evolutionary Biology and Environmental Studies at the University of Zurich.\nIn a nutshell, we are interested in how populations and communities respond to global change. To understand these responses, we work at the interface of experiments and theory using model systems (e.g., microorganisms, dung dwelling insects), and mathematical and statistical modeling. Occassionally, we also do analysis on large scale data compilations (e.g. time series of abundance), for instance, to understand the limits of ecological predictability.\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 13, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 11, 2025\n\n\nFrank Pennekamp\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 6, 2024\n\n\nFrank Pennekamp\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/alumni/Andrea_Tabi.html",
@@ -516,5 +516,12 @@
     "title": "Biodiversity modulates the cross-community scaling relationship in changing environments",
     "section": "",
     "text": "Organismal abundance tends to decline with increasing body size. Metabolic theory links this size structure with energy use and productivity, postulating a size–abundance slope of −0.75 that is invariant across environments. We tested the robustness of this relationship across gradients of protist species richness (1–6 species), temperature (15°C–25°C) and time. Using replicated microcosms, we provide an empirical test of how temperature and biodiversity jointly shape the cross-community scaling relationship (CCSR). While our results support the expected slope of −0.75, we also found interactive effects showing the relationship is not invariant. Warming altered abundance scaling with size depending on richness; in high-richness communities, temperature favoured small protists, steepening the CCSR slope. These context-dependent responses emerged over time, suggesting a role of size-dependent species interactions in shaping responses to environmental change. Our findings demonstrate that cross-community size scaling is not fixed but shifts dynamically with ecological context."
+  },
+  {
+    "objectID": "posts/welcome_segolene/Index.html",
+    "href": "posts/welcome_segolene/Index.html",
+    "title": "Biotic responses to environmental change",
+    "section": "",
+    "text": "Ségolène has joined the group as postdoctoral researcher funded by an SNF Postdoc.Mobility fellowship. You can read about her research here. Welcome Ségolène!"
   }
 ]
