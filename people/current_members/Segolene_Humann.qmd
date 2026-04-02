@@ -1,0 +1,47 @@
+---
+title: "Ségolène Humann-Guilleminot"
+image: imgs/SegoleneHumann.jpg
+description: "Postdoctoral researcher"
+about:
+  template: trestles
+  image: imgs/SegoleneHumann.jpg
+  links:
+    - icon: envelope
+      text: mail
+      href: mailto:segolene.humann-guilleminot@uzh.ch
+order: 1
+---
+
+My background is in ecotoxicology and community ecology. I first studied the effects of neonicotinoid insecticides on birds during my master's thesis at the University of Neuchâtel, a project that I later expanded into a PhD. Alongside this work, I developed a strong interest in community ecology, initially through research on grassland intensification and later through studies on the effects of pesticides on weed communities. After conducting several empirical studies and extensive fieldwork, I shifted my focus toward assessing pesticide impacts on biodiversity using a meta-analytical approach.
+
+After completing my PhD at the National Museum of Natural History in Paris in September 2022, I continued as a postdoctoral researcher for one year at the Centre for Biological Studies of Chizé in France, where I studied the effects of herbicides on weed communities. I then received a Postdoc.Mobility grant from the Swiss National Science Foundation to pursue a two-year postdoc at Radboud University in the Netherlands, focusing on the impacts of pesticides on biodiversity through a meta-analysis. I am now extending this work by incorporating a functional ecology component, supported by a one-year SNSF Postdoc.Mobility Return grant under the supervision of Frank Pennekamp at the University of Zurich.
+
+### Research Interests
+
+- Community ecology
+- Functional ecology
+- Pesticides
+- Agroecosystems
+
+### Experience
+
+**University of Zurich**  
+2026 - present
+**Radboud University (The Netherlands)**  
+2024 - 2026
+**Center of Biological studies of Chizé (CEBC, France)**  
+2023 - 2024
+
+### Education
+
+**National Museum of Natural History**
+PhD in Ecological and Agronomic Sciences
+Title: Diffuse contamination of neonicotinoids in agricultural habitats and sublethal effects in house sparrows.
+Paris, France    
+Granted September 2022
+
+**University of Neuchâtel**  
+Master in Biology of Parasites and Ecotoxicology  
+Title: Distribution of five neonicotinoid insecticides in soil, crops and non-cultivated plants in Switzerland and sublethal effects in House sparrows.
+Neuchâtel, Switzerland    
+Granted May 2016
